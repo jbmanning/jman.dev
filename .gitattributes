@@ -2,3 +2,15 @@
 /.yarn/releases/*    binary
 /.yarn/plugins/**/*  binary
 /.pnp.*              binary linguist-generated
+
+# Don't count these files in statistics on GitHub
+package-lock.json linguist-vendored
+yarn.lock linguist-vendored
+
+# Merge our versions of files when merge conflicts arise
+package-lock.json merge=ours
+yarn.lock merge=ours
+
+# Don't even try to merge these files
+package-lock.json -diff
+yarn.lock -diff
