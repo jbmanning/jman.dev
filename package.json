@@ -1,13 +1,17 @@
 {
-  "name": "jman.dev",
-  "private": true,
-  "workspaces": [
-    "packages/*",
-    "apps/*"
-  ],
-  "packageManager": "yarn@3.6.0",
-  "devDependencies": {
-    "@changesets/cli": "^2.26.1",
-    "@types/node": "18"
-  }
+	"name": "jman.dev",
+	"packageManager": "yarn@3.6.0",
+	"private": true,
+	"workspaces": [
+		"packages/*",
+		"apps/*"
+	],
+	"prettier": "@jman.dev/prettier-config",
+	"devDependencies": {
+		"@changesets/cli": "^2.26.1",
+		"@jman.dev/eslint-config": "workspace:*",
+		"@jman.dev/prettier-config": "workspace:*",
+		"@types/node": "^18",
+		"eslint": "^8.42.0"
+	}
 }
