@@ -1,3 +1,3 @@
-import jman from '@jman.dev/eslint-config';
+import jman from '@jman.dev/eslint-config'
 
-export default jman;
+export default jman

@@ -1,11 +1,13 @@
 {
 	"name": "@jman.dev/eslint-config",
 	"version": "0.0.1",
-	"main": "index.js",
-	"type": "module",
+	"exports": {
+		".": {
+			"import": "./dist/index.js"
+		}
+	},
 	"scripts": {
-		"build": "tsup index.ts --dts",
-		"release": ""
+		"build": "rm -rf ./dist && tsup index.ts --dts"
 	},
 	"devDependencies": {
 		"@eslint/js": "^8.42.0",

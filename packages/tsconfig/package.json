@@ -1,7 +1,7 @@
 {
 	"name": "@jman.dev/tsconfig",
 	"version": "0.0.0",
-	"devDependencies": {
+	"dependencies": {
 		"@tsconfig/node18": "^18.2.0",
 		"@tsconfig/strictest": "^2.0.1"
 	}
