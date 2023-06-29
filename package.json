@@ -12,11 +12,12 @@
 		"release": "jman is-git-clean && changeset version && changeset publish && git push --follow-tags"
 	},
 	"devDependencies": {
+		"@arethetypeswrong/cli": "^0.4.2",
 		"@changesets/cli": "^2.26.1",
 		"@jman.dev/eslint-config": "workspace:*",
 		"@jman.dev/prettier-config": "workspace:*",
-		"@jman.dev/tsconfig": "workspace:*",
 		"@jman.dev/scripts": "workspace:*",
+		"@jman.dev/tsconfig": "workspace:*",
 		"@tsconfig/node18": "^18.2.0",
 		"@tsconfig/strictest": "^2.0.1",
 		"@types/node": "^18",
