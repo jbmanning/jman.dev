@@ -1,0 +1,13 @@
+{
+	"name": "@jman.dev/scripts",
+	"description": "general purpose utils (jman.dev)",
+	"version": "0.0.0",
+	"bin": {
+		"jman": "./index.mjs"
+	},
+	"scripts": {},
+	"dependencies": {
+		"commander": "^11.0.0",
+		"execa": "^7.1.1"
+	}
+}

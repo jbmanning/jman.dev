@@ -7,7 +7,7 @@
 		}
 	},
 	"scripts": {
-		"build": "rm -rf ./dist && tsup index.ts --dts"
+		"build": "tsup index.ts --dts --clean"
 	},
 	"devDependencies": {
 		"@eslint/js": "^8.42.0",

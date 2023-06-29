@@ -16,6 +16,7 @@
 		"@jman.dev/eslint-config": "workspace:*",
 		"@jman.dev/prettier-config": "workspace:*",
 		"@jman.dev/tsconfig": "workspace:*",
+		"@jman.dev/scripts": "workspace:*",
 		"@tsconfig/node18": "^18.2.0",
 		"@tsconfig/strictest": "^2.0.1",
 		"@types/node": "^18",
