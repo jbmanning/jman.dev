@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.16
+
+### Patch Changes
+
+- 659c0fc: fix prepare to always run build
+
 ## 0.0.15
 
 ### Patch Changes
