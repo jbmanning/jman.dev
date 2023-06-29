@@ -3,6 +3,7 @@
 	"version": "0.0.15",
 	"type": "module",
 	"scripts": {
+		"prepare": "npm run build",
 		"add": "shadcn-ui add",
 		"build": "ts-node --esm scripts/build.ts"
 	},
