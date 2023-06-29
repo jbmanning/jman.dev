@@ -2,4 +2,4 @@
 '@jman.dev/shadcn': patch
 ---
 
-update exports formats
+fix src/lib import
