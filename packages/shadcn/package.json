@@ -46,10 +46,10 @@
 		"lucide-react": "^0.256.0",
 		"react-day-picker": "^8.8.0",
 		"react-hook-form": "^7.45.1",
-		"tailwind-merge": "^1.13.2"
+		"tailwind-merge": "^1.13.2",
+		"@tanstack/react-table": "^8.9.3"
 	},
 	"devDependencies": {
-		"@tanstack/react-table": "^8.9.3",
 		"@types/react": "^18.2.14",
 		"autoprefixer": "^10.4.14",
 		"copyfiles": "^2.4.1",

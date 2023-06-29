@@ -1,5 +1,5 @@
 import * as React from 'react'
-
+import * as tanstack from '@tanstack/react-table'
 import {cn} from '~/lib'
 
 const Table = React.forwardRef<HTMLTableElement, React.HTMLAttributes<HTMLTableElement>>(
@@ -106,6 +106,5 @@ export {
 	TableRow,
 	TableCell,
 	TableCaption,
+	tanstack,
 }
-
-export * from '@tanstack/react-table'
