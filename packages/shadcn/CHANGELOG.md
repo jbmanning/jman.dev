@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.8
+
+### Patch Changes
+
+- 13f9268: test build
+
 ## 0.0.7
 
 ### Patch Changes
