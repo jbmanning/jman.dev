@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.15
+
+### Patch Changes
+
+- c922fb6: fix react table dep
+
 ## 0.0.14
 
 ### Patch Changes
