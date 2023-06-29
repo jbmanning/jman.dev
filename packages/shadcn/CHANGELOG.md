@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.11
+
+### Patch Changes
+
+- f7c489b: readd dependencies
+
 ## 0.0.10
 
 ### Patch Changes
