@@ -2,11 +2,23 @@
 
 import {Command} from 'commander'
 import {execa} from 'execa'
-import json from './package.json' assert {type: 'json'}
+import fs from 'fs'
+
+import path from 'path'
+import {fileURLToPath} from 'url'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
+
+const json = JSON.parse(
+	fs.readFileSync(path.join(__dirname, './package.json')).toString()
+)
 
 const program = new Command()
 
-program.name('jman').description(json.description).version(json.version)
+program
+	.name('jman')
+	.description(json.description ?? 'Unknown')
+	.version(json.version ?? 'Unknown')
 
 program
 	.command('is-git-clean')
