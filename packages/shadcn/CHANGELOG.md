@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.9
+
+### Patch Changes
+
+- 02bda47: shadcn explicit extension on wildcard export
+
 ## 0.0.8
 
 ### Patch Changes
