@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.3
+
+### Patch Changes
+
+- 9d11f24: fix src/lib import
+
 ## 0.0.2
 
 ### Patch Changes
