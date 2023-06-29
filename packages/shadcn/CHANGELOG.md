@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.13
+
+### Patch Changes
+
+- 859b10f: add table
+
 ## 0.0.12
 
 ### Patch Changes
