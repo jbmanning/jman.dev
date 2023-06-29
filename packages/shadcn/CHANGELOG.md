@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.10
+
+### Patch Changes
+
+- 2d671d6: Update shadcn to include css build
+
 ## 0.0.9
 
 ### Patch Changes
