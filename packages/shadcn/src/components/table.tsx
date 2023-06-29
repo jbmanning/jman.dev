@@ -107,3 +107,5 @@ export {
 	TableCell,
 	TableCaption,
 }
+
+export * from '@tanstack/react-table'
