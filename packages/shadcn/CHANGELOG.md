@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.12
+
+### Patch Changes
+
+- e679d03: add tw merge
+
 ## 0.0.11
 
 ### Patch Changes
