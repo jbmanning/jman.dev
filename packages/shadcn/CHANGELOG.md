@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.5
+
+### Patch Changes
+
+- ac76177: testing builds
+
 ## 0.0.4
 
 ### Patch Changes
