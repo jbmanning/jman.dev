@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.7
+
+### Patch Changes
+
+- 05bddfa: testing builds
+
 ## 0.0.6
 
 ### Patch Changes
