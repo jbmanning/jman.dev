@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.14
+
+### Patch Changes
+
+- f75439e: fix react table dep
+
 ## 0.0.13
 
 ### Patch Changes
