@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.6
+
+### Patch Changes
+
+- b0d12af: testing builds
+
 ## 0.0.5
 
 ### Patch Changes
