@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.24
+
+### Patch Changes
+
+- 82110d2: revert prefix
+
 ## 0.0.23
 
 ### Patch Changes
