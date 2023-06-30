@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.17
+
+### Patch Changes
+
+- e080b84: add data-table
+
 ## 0.0.16
 
 ### Patch Changes
