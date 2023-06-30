@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.19
+
+### Patch Changes
+
+- 001f7a8: disable autoprefixer
+
 ## 0.0.18
 
 ### Patch Changes
