@@ -1,8 +1,20 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@layer tailwind.base {
+	@tailwind base;
+}
 
-@layer base {
+@layer tailwind.components {
+	@tailwind components;
+}
+
+@layer tailwind.utilities {
+	@tailwind utilities;
+}
+
+@layer tailwind.variants {
+	@tailwind variants;
+}
+
+@layer tailwind.base {
 	:root {
 		--background: 0 0% 100%;
 		--foreground: 222.2 84% 4.9%;
@@ -66,9 +78,7 @@
 
 		--ring: 217.2 32.6% 17.5%;
 	}
-}
 
-@layer base {
 	* {
 		@apply border-primary;
 	}
