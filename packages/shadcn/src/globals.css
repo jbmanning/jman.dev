@@ -1,16 +1,16 @@
-@layer tailwind.base {
+@layer tailwind-base {
 	@tailwind base;
 }
 
-@layer tailwind.components {
+@layer tailwind-components {
 	@tailwind components;
 }
 
-@layer tailwind.utilities {
+@layer tailwind-utilities {
 	@tailwind utilities;
 }
 
-@layer tailwind.variants {
+@layer tailwind-variants {
 	@tailwind variants;
 }
 
