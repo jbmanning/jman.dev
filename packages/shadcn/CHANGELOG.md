@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.18
+
+### Patch Changes
+
+- fbed886: Move tailwind utils to tailwind specific layers
+
 ## 0.0.17
 
 ### Patch Changes
