@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.22
+
+### Patch Changes
+
+- a794f45: revert new york style
+
 ## 0.0.21
 
 ### Patch Changes
