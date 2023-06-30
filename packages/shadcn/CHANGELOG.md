@@ -1,5 +1,11 @@
 # @jman.dev/shadcn
 
+## 0.0.23
+
+### Patch Changes
+
+- bedcb97: test prefix
+
 ## 0.0.22
 
 ### Patch Changes
